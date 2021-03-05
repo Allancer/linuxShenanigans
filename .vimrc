@@ -1,12 +1,6 @@
-
-" https://github.com/ajmwagar/vim-deus
-" put deus.vim in vimfiles/colors or ~/.vim/colors/
+set number rnu
 syntax on
-filetype plugin on
-colors deus
-"set guifont=Input:h10
-set number
-
+filetype indent on
 set t_Co=256
 set termguicolors
 
