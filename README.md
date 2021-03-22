@@ -1,8 +1,8 @@
 zsh
   zsh-syntax-highlighting
   
-git
-vim or nvim?
+sudo git nvim i3-gaps rofi
+# vim or nvim?
 
 i3-gaps   - https://github.com/heckelson/i3-and-kde-plasma
 rofi
